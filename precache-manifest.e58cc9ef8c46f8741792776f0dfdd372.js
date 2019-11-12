@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc6889c16f626f4043098510d51265e1",
+    "revision": "adfb5ef0c34e544267a6d3b27247b1bc",
     "url": "/portfolioPresent/index.html"
   },
   {
-    "revision": "b08c7d80cce9d87383de",
+    "revision": "4d6ec986838de475f7e8",
     "url": "/portfolioPresent/static/css/2.b904598c.chunk.css"
   },
   {
-    "revision": "c51c5d7d39b43f089949",
-    "url": "/portfolioPresent/static/css/main.a1d59469.chunk.css"
+    "revision": "038e9dab2924afea4862",
+    "url": "/portfolioPresent/static/css/main.b5be8ccd.chunk.css"
   },
   {
-    "revision": "b08c7d80cce9d87383de",
-    "url": "/portfolioPresent/static/js/2.8e3d213c.chunk.js"
+    "revision": "4d6ec986838de475f7e8",
+    "url": "/portfolioPresent/static/js/2.421d85aa.chunk.js"
   },
   {
-    "revision": "c51c5d7d39b43f089949",
-    "url": "/portfolioPresent/static/js/main.5fda2f92.chunk.js"
+    "revision": "038e9dab2924afea4862",
+    "url": "/portfolioPresent/static/js/main.ea3aa5f6.chunk.js"
   },
   {
     "revision": "298b46db6fb434e59196",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d891b24cd6819552c95803cbb5e73dd0",
     "url": "/portfolioPresent/static/media/background.d891b24c.jpg"
+  },
+  {
+    "revision": "d4bc372c669027ffdc2b370cd3eee74d",
+    "url": "/portfolioPresent/static/media/blog.d4bc372c.png"
   },
   {
     "revision": "0425d661f34ffa46604c9dfa344c03bb",
@@ -100,7 +104,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolioPresent/static/media/germany.ccd12288.png"
   },
   {
+    "revision": "c8e3b483a6e7036e3a923cc02adf4ee4",
+    "url": "/portfolioPresent/static/media/guess.c8e3b483.png"
+  },
+  {
     "revision": "97a8dc08999b3800c3555d7a478be410",
     "url": "/portfolioPresent/static/media/myAvatar.97a8dc08.svg"
+  },
+  {
+    "revision": "d6c0a8cfed7d1eea4102483543f3a7a0",
+    "url": "/portfolioPresent/static/media/weatherapp.d6c0a8cf.png"
   }
 ]);

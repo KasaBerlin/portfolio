@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolioPresent/static/css/main.a1d59469.chunk.css",
-    "main.js": "/portfolioPresent/static/js/main.5fda2f92.chunk.js",
-    "main.js.map": "/portfolioPresent/static/js/main.5fda2f92.chunk.js.map",
+    "main.css": "/portfolioPresent/static/css/main.b5be8ccd.chunk.css",
+    "main.js": "/portfolioPresent/static/js/main.ea3aa5f6.chunk.js",
+    "main.js.map": "/portfolioPresent/static/js/main.ea3aa5f6.chunk.js.map",
     "runtime-main.js": "/portfolioPresent/static/js/runtime-main.5c5579e9.js",
     "runtime-main.js.map": "/portfolioPresent/static/js/runtime-main.5c5579e9.js.map",
     "static/css/2.b904598c.chunk.css": "/portfolioPresent/static/css/2.b904598c.chunk.css",
-    "static/js/2.8e3d213c.chunk.js": "/portfolioPresent/static/js/2.8e3d213c.chunk.js",
-    "static/js/2.8e3d213c.chunk.js.map": "/portfolioPresent/static/js/2.8e3d213c.chunk.js.map",
+    "static/js/2.421d85aa.chunk.js": "/portfolioPresent/static/js/2.421d85aa.chunk.js",
+    "static/js/2.421d85aa.chunk.js.map": "/portfolioPresent/static/js/2.421d85aa.chunk.js.map",
     "index.html": "/portfolioPresent/index.html",
-    "precache-manifest.fac723d7ca400a6a0d3144bde8031366.js": "/portfolioPresent/precache-manifest.fac723d7ca400a6a0d3144bde8031366.js",
+    "precache-manifest.e58cc9ef8c46f8741792776f0dfdd372.js": "/portfolioPresent/precache-manifest.e58cc9ef8c46f8741792776f0dfdd372.js",
     "service-worker.js": "/portfolioPresent/service-worker.js",
     "static/css/2.b904598c.chunk.css.map": "/portfolioPresent/static/css/2.b904598c.chunk.css.map",
-    "static/css/main.a1d59469.chunk.css.map": "/portfolioPresent/static/css/main.a1d59469.chunk.css.map",
+    "static/css/main.b5be8ccd.chunk.css.map": "/portfolioPresent/static/css/main.b5be8ccd.chunk.css.map",
     "static/media/alltag.png": "/portfolioPresent/static/media/alltag.00ab0889.png",
     "static/media/index.css": "/portfolioPresent/static/media/myAvatar.97a8dc08.svg",
+    "static/media/blog.png": "/portfolioPresent/static/media/blog.d4bc372c.png",
     "static/media/all.css": "/portfolioPresent/static/media/fa-solid-900.db525089.woff",
-    "static/media/germany.png": "/portfolioPresent/static/media/germany.ccd12288.png"
+    "static/media/germany.png": "/portfolioPresent/static/media/germany.ccd12288.png",
+    "static/media/guess.png": "/portfolioPresent/static/media/guess.c8e3b483.png",
+    "static/media/weatherapp.png": "/portfolioPresent/static/media/weatherapp.d6c0a8cf.png"
   }
 }
