@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c5c41d8b4bbf149a8cb0ec506dfdaa0",
+    "revision": "1ef95a94a75aabe7b1702d0e2f35aaf0",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7c451ed403538aaa2b00",
+    "revision": "7317688f933672843e5e",
     "url": "/portfolio/static/css/2.1f43c709.chunk.css"
   },
   {
-    "revision": "c42061861f5917bba0f5",
-    "url": "/portfolio/static/css/main.3f5b52ab.chunk.css"
+    "revision": "d916a2e8387c0dec51e9",
+    "url": "/portfolio/static/css/main.b4054e12.chunk.css"
   },
   {
-    "revision": "7c451ed403538aaa2b00",
-    "url": "/portfolio/static/js/2.421d85aa.chunk.js"
+    "revision": "7317688f933672843e5e",
+    "url": "/portfolio/static/js/2.6ececf94.chunk.js"
   },
   {
-    "revision": "c42061861f5917bba0f5",
-    "url": "/portfolio/static/js/main.170c1811.chunk.js"
+    "revision": "d916a2e8387c0dec51e9",
+    "url": "/portfolio/static/js/main.c5914520.chunk.js"
   },
   {
     "revision": "c98fad0fa5c777d28f1b",
     "url": "/portfolio/static/js/runtime-main.36963274.js"
+  },
+  {
+    "revision": "b84e0cd04c61d71755b99ef214cb7104",
+    "url": "/portfolio/static/media/CV-KatrinSalac.b84e0cd0.pdf"
   },
   {
     "revision": "00ab0889a5cb3e25373e3ca7cd1f35ca",
