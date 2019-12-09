@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a15438fe37f410cfb5ce3f0f2ca8235",
+    "revision": "811e0a10a68422af44f473e4c8bae1c6",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "ff40eaa54930d907689c",
+    "revision": "b871e6c2172d4ed292be",
     "url": "/portfolio/static/css/2.1f43c709.chunk.css"
   },
   {
-    "revision": "d2d7c941dc2f167edd64",
-    "url": "/portfolio/static/css/main.0d6322b0.chunk.css"
+    "revision": "83828baf44a8caa2d289",
+    "url": "/portfolio/static/css/main.bbc1ee3f.chunk.css"
   },
   {
-    "revision": "ff40eaa54930d907689c",
-    "url": "/portfolio/static/js/2.d808fb48.chunk.js"
+    "revision": "b871e6c2172d4ed292be",
+    "url": "/portfolio/static/js/2.7247ce41.chunk.js"
   },
   {
-    "revision": "d2d7c941dc2f167edd64",
-    "url": "/portfolio/static/js/main.5f59fbcb.chunk.js"
+    "revision": "83828baf44a8caa2d289",
+    "url": "/portfolio/static/js/main.0e6fd31f.chunk.js"
   },
   {
     "revision": "c98fad0fa5c777d28f1b",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/CV-KatrinSalac.b84e0cd0.pdf"
   },
   {
-    "revision": "00ab0889a5cb3e25373e3ca7cd1f35ca",
-    "url": "/portfolio/static/media/alltag.00ab0889.png"
+    "revision": "a9177b35e53cc78b4750ab3eff76ddfe",
+    "url": "/portfolio/static/media/alltag.a9177b35.png"
   },
   {
     "revision": "d891b24cd6819552c95803cbb5e73dd0",
