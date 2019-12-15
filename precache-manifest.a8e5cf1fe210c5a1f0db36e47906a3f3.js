@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5e4bdf5a067a9ac0de3da6952299f8b",
+    "revision": "a7391c01713fd2e28b1ff27dc61ad323",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "b871e6c2172d4ed292be",
+    "revision": "ff40eaa54930d907689c",
     "url": "/portfolio/static/css/2.1f43c709.chunk.css"
   },
   {
-    "revision": "57363a4e9a8c8118e879",
-    "url": "/portfolio/static/css/main.bbc1ee3f.chunk.css"
+    "revision": "3fd5ec6b38a230cfb916",
+    "url": "/portfolio/static/css/main.b9fa69a0.chunk.css"
   },
   {
-    "revision": "b871e6c2172d4ed292be",
-    "url": "/portfolio/static/js/2.7247ce41.chunk.js"
+    "revision": "ff40eaa54930d907689c",
+    "url": "/portfolio/static/js/2.d808fb48.chunk.js"
   },
   {
-    "revision": "57363a4e9a8c8118e879",
-    "url": "/portfolio/static/js/main.fe20166a.chunk.js"
+    "revision": "3fd5ec6b38a230cfb916",
+    "url": "/portfolio/static/js/main.3c5c02f6.chunk.js"
   },
   {
     "revision": "c98fad0fa5c777d28f1b",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/CV-KatrinSalac.b84e0cd0.pdf"
   },
   {
-    "revision": "a9177b35e53cc78b4750ab3eff76ddfe",
-    "url": "/portfolio/static/media/alltag.a9177b35.png"
+    "revision": "dcab3f49f7f07a4b56ea3369dd88226a",
+    "url": "/portfolio/static/media/alltag.dcab3f49.png"
   },
   {
     "revision": "d891b24cd6819552c95803cbb5e73dd0",
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/myAvatar.97a8dc08.svg"
   },
   {
-    "revision": "d6c0a8cfed7d1eea4102483543f3a7a0",
-    "url": "/portfolio/static/media/weatherapp.d6c0a8cf.png"
+    "revision": "ff8dbd06318c0a7b021156ac560a2997",
+    "url": "/portfolio/static/media/weatherapp.ff8dbd06.png"
   }
 ]);

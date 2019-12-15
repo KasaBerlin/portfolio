@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bbc1ee3f.chunk.css",
-    "main.js": "/portfolio/static/js/main.fe20166a.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.fe20166a.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.b9fa69a0.chunk.css",
+    "main.js": "/portfolio/static/js/main.3c5c02f6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3c5c02f6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.36963274.js.map",
     "static/css/2.1f43c709.chunk.css": "/portfolio/static/css/2.1f43c709.chunk.css",
-    "static/js/2.7247ce41.chunk.js": "/portfolio/static/js/2.7247ce41.chunk.js",
-    "static/js/2.7247ce41.chunk.js.map": "/portfolio/static/js/2.7247ce41.chunk.js.map",
+    "static/js/2.d808fb48.chunk.js": "/portfolio/static/js/2.d808fb48.chunk.js",
+    "static/js/2.d808fb48.chunk.js.map": "/portfolio/static/js/2.d808fb48.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d493b37b2f086e79d52eefdb984c1b29.js": "/portfolio/precache-manifest.d493b37b2f086e79d52eefdb984c1b29.js",
+    "precache-manifest.a8e5cf1fe210c5a1f0db36e47906a3f3.js": "/portfolio/precache-manifest.a8e5cf1fe210c5a1f0db36e47906a3f3.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.1f43c709.chunk.css.map": "/portfolio/static/css/2.1f43c709.chunk.css.map",
-    "static/css/main.bbc1ee3f.chunk.css.map": "/portfolio/static/css/main.bbc1ee3f.chunk.css.map",
+    "static/css/main.b9fa69a0.chunk.css.map": "/portfolio/static/css/main.b9fa69a0.chunk.css.map",
     "static/media/CV-KatrinSalac.pdf": "/portfolio/static/media/CV-KatrinSalac.b84e0cd0.pdf",
-    "static/media/alltag.png": "/portfolio/static/media/alltag.a9177b35.png",
+    "static/media/alltag.png": "/portfolio/static/media/alltag.dcab3f49.png",
     "static/media/index.css": "/portfolio/static/media/myAvatar.97a8dc08.svg",
     "static/media/blog.png": "/portfolio/static/media/blog.d4bc372c.png",
     "static/media/all.css": "/portfolio/static/media/fa-solid-900.db525089.woff",
     "static/media/germany.png": "/portfolio/static/media/germany.ccd12288.png",
     "static/media/guess.png": "/portfolio/static/media/guess.c8e3b483.png",
-    "static/media/weatherapp.png": "/portfolio/static/media/weatherapp.d6c0a8cf.png"
+    "static/media/weatherapp.png": "/portfolio/static/media/weatherapp.ff8dbd06.png"
   }
 }
