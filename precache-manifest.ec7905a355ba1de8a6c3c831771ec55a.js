@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7391c01713fd2e28b1ff27dc61ad323",
+    "revision": "07ec697d95710c3a23c9cc804ce48b00",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "ff40eaa54930d907689c",
+    "revision": "b871e6c2172d4ed292be",
     "url": "/portfolio/static/css/2.1f43c709.chunk.css"
   },
   {
-    "revision": "3fd5ec6b38a230cfb916",
-    "url": "/portfolio/static/css/main.b9fa69a0.chunk.css"
+    "revision": "3152191b73aeed9694b0",
+    "url": "/portfolio/static/css/main.3def90fd.chunk.css"
   },
   {
-    "revision": "ff40eaa54930d907689c",
-    "url": "/portfolio/static/js/2.d808fb48.chunk.js"
+    "revision": "b871e6c2172d4ed292be",
+    "url": "/portfolio/static/js/2.7247ce41.chunk.js"
   },
   {
-    "revision": "3fd5ec6b38a230cfb916",
-    "url": "/portfolio/static/js/main.3c5c02f6.chunk.js"
+    "revision": "3152191b73aeed9694b0",
+    "url": "/portfolio/static/js/main.5ee4669e.chunk.js"
   },
   {
     "revision": "c98fad0fa5c777d28f1b",
     "url": "/portfolio/static/js/runtime-main.36963274.js"
   },
   {
-    "revision": "b84e0cd04c61d71755b99ef214cb7104",
-    "url": "/portfolio/static/media/CV-KatrinSalac.b84e0cd0.pdf"
+    "revision": "202bb817a35d5ad96aeaacc3d0c4eff9",
+    "url": "/portfolio/static/media/CV-KatrinSalac.202bb817.pdf"
   },
   {
     "revision": "dcab3f49f7f07a4b56ea3369dd88226a",
