@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.65fd470e.chunk.css",
-    "main.js": "/portfolio/static/js/main.f699a391.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f699a391.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.618e248f.chunk.css",
+    "main.js": "/portfolio/static/js/main.b88d061f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b88d061f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.36963274.js.map",
     "static/css/2.1f43c709.chunk.css": "/portfolio/static/css/2.1f43c709.chunk.css",
-    "static/js/2.9838e8e9.chunk.js": "/portfolio/static/js/2.9838e8e9.chunk.js",
-    "static/js/2.9838e8e9.chunk.js.map": "/portfolio/static/js/2.9838e8e9.chunk.js.map",
+    "static/js/2.56ebb766.chunk.js": "/portfolio/static/js/2.56ebb766.chunk.js",
+    "static/js/2.56ebb766.chunk.js.map": "/portfolio/static/js/2.56ebb766.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.e60950c3993f34e571779785490ff66a.js": "/portfolio/precache-manifest.e60950c3993f34e571779785490ff66a.js",
+    "precache-manifest.b99ca3cd7edbdaba219576d226d22aa6.js": "/portfolio/precache-manifest.b99ca3cd7edbdaba219576d226d22aa6.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.1f43c709.chunk.css.map": "/portfolio/static/css/2.1f43c709.chunk.css.map",
-    "static/css/main.65fd470e.chunk.css.map": "/portfolio/static/css/main.65fd470e.chunk.css.map",
+    "static/css/main.618e248f.chunk.css.map": "/portfolio/static/css/main.618e248f.chunk.css.map",
     "static/media/CV-KatrinSalac.pdf": "/portfolio/static/media/CV-KatrinSalac.202bb817.pdf",
     "static/media/alltag.png": "/portfolio/static/media/alltag.dcab3f49.png",
     "static/media/index.css": "/portfolio/static/media/final824-roses-drawing.9c0c16ad.svg",
@@ -23,6 +23,7 @@
     "static/media/github.png": "/portfolio/static/media/github.9a51a5f7.png",
     "static/media/guess.png": "/portfolio/static/media/guess.c8e3b483.png",
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.58775d72.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.2fda64fd.png",
     "static/media/weatherapp.png": "/portfolio/static/media/weatherapp.ff8dbd06.png"
   }
 }
