@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.79d24b98.chunk.css",
+    "main.css": "/portfolio/static/css/main.0e98cd25.chunk.css",
     "main.js": "/portfolio/static/js/main.d34474b6.chunk.js",
     "main.js.map": "/portfolio/static/js/main.d34474b6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
@@ -9,10 +9,10 @@
     "static/js/2.ad54f41c.chunk.js": "/portfolio/static/js/2.ad54f41c.chunk.js",
     "static/js/2.ad54f41c.chunk.js.map": "/portfolio/static/js/2.ad54f41c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.78370a7788f7549f4ab0b437dcc60e99.js": "/portfolio/precache-manifest.78370a7788f7549f4ab0b437dcc60e99.js",
+    "precache-manifest.b62bf3018aacb99aeb1e75c7ea02e274.js": "/portfolio/precache-manifest.b62bf3018aacb99aeb1e75c7ea02e274.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.1f43c709.chunk.css.map": "/portfolio/static/css/2.1f43c709.chunk.css.map",
-    "static/css/main.79d24b98.chunk.css.map": "/portfolio/static/css/main.79d24b98.chunk.css.map",
+    "static/css/main.0e98cd25.chunk.css.map": "/portfolio/static/css/main.0e98cd25.chunk.css.map",
     "static/media/CV-KatrinSalac.pdf": "/portfolio/static/media/CV-KatrinSalac.202bb817.pdf",
     "static/media/alltag.png": "/portfolio/static/media/alltag.dcab3f49.png",
     "static/media/index.css": "/portfolio/static/media/final824-roses-drawing.9c0c16ad.svg",
