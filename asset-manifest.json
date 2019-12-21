@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.574db770.chunk.css",
-    "main.js": "/portfolio/static/js/main.d34474b6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d34474b6.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.32be68a6.chunk.css",
+    "main.js": "/portfolio/static/js/main.af9d1db0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.af9d1db0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.36963274.js.map",
     "static/css/2.1f43c709.chunk.css": "/portfolio/static/css/2.1f43c709.chunk.css",
     "static/js/2.ad54f41c.chunk.js": "/portfolio/static/js/2.ad54f41c.chunk.js",
     "static/js/2.ad54f41c.chunk.js.map": "/portfolio/static/js/2.ad54f41c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.65afa38430831130e3ca3bea440b52f6.js": "/portfolio/precache-manifest.65afa38430831130e3ca3bea440b52f6.js",
+    "precache-manifest.8c23d7f80f2371c81d8e820249ed9a30.js": "/portfolio/precache-manifest.8c23d7f80f2371c81d8e820249ed9a30.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.1f43c709.chunk.css.map": "/portfolio/static/css/2.1f43c709.chunk.css.map",
-    "static/css/main.574db770.chunk.css.map": "/portfolio/static/css/main.574db770.chunk.css.map",
+    "static/css/main.32be68a6.chunk.css.map": "/portfolio/static/css/main.32be68a6.chunk.css.map",
     "static/media/CV-KatrinSalac.pdf": "/portfolio/static/media/CV-KatrinSalac.202bb817.pdf",
     "static/media/alltag.png": "/portfolio/static/media/alltag.dcab3f49.png",
-    "static/media/index.css": "/portfolio/static/media/final824-roses-drawing.9c0c16ad.svg",
     "static/media/blog.png": "/portfolio/static/media/blog.d4bc372c.png",
     "static/media/codepen.png": "/portfolio/static/media/codepen.f526096f.png",
     "static/media/all.css": "/portfolio/static/media/fa-solid-900.db525089.woff",
@@ -24,6 +23,7 @@
     "static/media/guess.png": "/portfolio/static/media/guess.c8e3b483.png",
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.58775d72.png",
     "static/media/logo.png": "/portfolio/static/media/logo.2fda64fd.png",
+    "static/media/index.css": "/portfolio/static/media/rose-egg.d5dc20f0.svg",
     "static/media/weatherapp.png": "/portfolio/static/media/weatherapp.ff8dbd06.png"
   }
 }

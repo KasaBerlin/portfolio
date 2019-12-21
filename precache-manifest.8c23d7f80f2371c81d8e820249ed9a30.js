@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95e1a1fef5e02621e8b21b5690400fa2",
+    "revision": "27fdf8ece32e23ba38c0a65d1e5813c2",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.1f43c709.chunk.css"
   },
   {
-    "revision": "1aa49483422b97aea8a9",
-    "url": "/portfolio/static/css/main.574db770.chunk.css"
+    "revision": "cecf597906369e8572f7",
+    "url": "/portfolio/static/css/main.32be68a6.chunk.css"
   },
   {
     "revision": "0f670334301a34996aa1",
     "url": "/portfolio/static/js/2.ad54f41c.chunk.js"
   },
   {
-    "revision": "1aa49483422b97aea8a9",
-    "url": "/portfolio/static/js/main.d34474b6.chunk.js"
+    "revision": "cecf597906369e8572f7",
+    "url": "/portfolio/static/js/main.af9d1db0.chunk.js"
   },
   {
     "revision": "c98fad0fa5c777d28f1b",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcab3f49f7f07a4b56ea3369dd88226a",
     "url": "/portfolio/static/media/alltag.dcab3f49.png"
-  },
-  {
-    "revision": "d891b24cd6819552c95803cbb5e73dd0",
-    "url": "/portfolio/static/media/background.d891b24c.jpg"
   },
   {
     "revision": "d4bc372c669027ffdc2b370cd3eee74d",
@@ -104,10 +100,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fa-solid-900.db525089.woff"
   },
   {
-    "revision": "9c0c16ad0044aedb47f976a05c1e1b54",
-    "url": "/portfolio/static/media/final824-roses-drawing.9c0c16ad.svg"
-  },
-  {
     "revision": "ccd12288a798e29390505594b05b2d49",
     "url": "/portfolio/static/media/germany.ccd12288.png"
   },
@@ -126,6 +118,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2fda64fd939dfd9d12d05e574ef8dd5d",
     "url": "/portfolio/static/media/logo.2fda64fd.png"
+  },
+  {
+    "revision": "611a4bcb556f366641c6925c745ad72d",
+    "url": "/portfolio/static/media/rose-blue.611a4bcb.svg"
+  },
+  {
+    "revision": "d5dc20f048958d159d7d298441e91f4a",
+    "url": "/portfolio/static/media/rose-egg.d5dc20f0.svg"
   },
   {
     "revision": "ff8dbd06318c0a7b021156ac560a2997",
