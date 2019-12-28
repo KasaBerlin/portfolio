@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e42e769277d7e252b3b7114d02bee592",
+    "revision": "b18405ec285bed4ddf660eefd319c5db",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "0f670334301a34996aa1",
+    "revision": "d4fb6ef9ec8637587ae3",
     "url": "/portfolio/static/css/2.1f43c709.chunk.css"
   },
   {
-    "revision": "9926dc6b2bb3d9eddc51",
-    "url": "/portfolio/static/css/main.fe588eac.chunk.css"
+    "revision": "221be6beba420c66c9dc",
+    "url": "/portfolio/static/css/main.04700900.chunk.css"
   },
   {
-    "revision": "0f670334301a34996aa1",
-    "url": "/portfolio/static/js/2.ad54f41c.chunk.js"
+    "revision": "d4fb6ef9ec8637587ae3",
+    "url": "/portfolio/static/js/2.e3fde1fd.chunk.js"
   },
   {
-    "revision": "9926dc6b2bb3d9eddc51",
-    "url": "/portfolio/static/js/main.db21f4d8.chunk.js"
+    "revision": "221be6beba420c66c9dc",
+    "url": "/portfolio/static/js/main.0db707bc.chunk.js"
   },
   {
     "revision": "c98fad0fa5c777d28f1b",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d4bc372c669027ffdc2b370cd3eee74d",
     "url": "/portfolio/static/media/blog.d4bc372c.png"
-  },
-  {
-    "revision": "f526096f03f1810ac80615a2458f939c",
-    "url": "/portfolio/static/media/codepen.f526096f.png"
   },
   {
     "revision": "0425d661f34ffa46604c9dfa344c03bb",
@@ -104,20 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/germany.ccd12288.png"
   },
   {
-    "revision": "9a51a5f76e5376267d666451452f95cf",
-    "url": "/portfolio/static/media/github.9a51a5f7.png"
-  },
-  {
     "revision": "c8e3b483a6e7036e3a923cc02adf4ee4",
     "url": "/portfolio/static/media/guess.c8e3b483.png"
-  },
-  {
-    "revision": "58775d726efec10aecff7c59d293fee4",
-    "url": "/portfolio/static/media/linkedin.58775d72.png"
-  },
-  {
-    "revision": "2fda64fd939dfd9d12d05e574ef8dd5d",
-    "url": "/portfolio/static/media/logo.2fda64fd.png"
   },
   {
     "revision": "611a4bcb556f366641c6925c745ad72d",
