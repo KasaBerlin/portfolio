@@ -1,0 +1,106 @@
+.row{
+  margin: 8px -16px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row,
+.row > .column {
+  padding: 8px;
+}
+.column{
+  float: left;
+  width: 50%;
+}
+.projectbox{
+  position:relative;
+  height: 500px;
+  padding:10px;
+  text-align:center;
+}
+.projectbox img {
+  background-color:white;
+  /* object-fit:cover; */
+  /* height:500px; */
+  width:100%;
+  transition:opacity ease-out 250ms;
+  opacity:1;
+}
+.projectbox:hover img{
+  opacity:0.1;
+}
+.projectbox::before{
+  content:"";
+  position:absolute;
+  top:1.25em;
+  bottom:1.25em;
+  left:1.25em;
+  right:1.25em;
+  transform:scale(0,1);
+  transition: transform ease-out 250ms;
+  border-bottom:1px solid white;
+}
+.projectbox::after{
+  content:"";
+  position:absolute;
+  top:1.25em;
+  bottom:1.25em;
+  left:1.25em;
+  right:1.25em;
+  transform:scale(1,0);
+  transition: transform ease-out 250ms;
+  border-left: 1px solid white;
+}
+.projectbox:hover::before{
+  transform: scale(1.05,1);
+}
+.projectbox:hover::after{
+  transform: scale(1,1.05);
+  }
+.projectbox ul{
+  position:absolute;
+  top:50%;
+  left:50%; 
+  transform: translate(-50%,-50%);
+  opacity:0;
+  z-index: 1;
+  transition: opacity ease-out 250ms;
+}
+.projectbox:hover ul{
+  opacity:1;
+}
+.projectbox li p{
+  text-align: center;
+}
+h2 {
+  font-size: 2em;
+  padding-bottom: 15px;
+  font-family: "Lobster", cursive;
+  white-space: wrap;
+  color: #ff7214;
+  text-align: center;
+}
+.projectbox li:last-child {
+  display: flex;
+  place-content:center;
+flex-wrap: wrap;
+} 
+.button{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px dotted white;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px; 
+  margin: 10px;
+}
+.button i{
+  font-size: 1.5em;
+  color: #fce181;
+}
+ul span {
+  display: none;
+} 

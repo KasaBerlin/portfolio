@@ -1,0 +1,132 @@
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .home{
+    height: fit-content;
+  }
+  .full{
+    grid-template-columns: 1fr 30%;
+    grid-gap:0;
+    font-family: 'Josefin Slab', serif;
+    outline: 20px solid transparent;
+  }
+  .full > a:not(.welcome){
+width:auto;
+  }
+  .welcomeP, .welcome{
+    display:none;
+  }
+  .iconbar{
+    padding:0;
+    height: 100%;
+    grid-row: 1/5;
+    grid-column: 2;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    background-image:url("../images/rose-egg.svg");
+    background-position:center center;
+    background-size: cover;
+  }
+  .iconbar i{
+  font-size: 3em;
+}
+.mail{
+  display:block;
+  grid-area:4 / 1 / 4 / 2;
+}
+#trademark{
+  color: #ff7214;
+}
+.trademark{
+  display: none;
+}
+/* about  */
+
+  .aboutbox-article{
+    display: block;
+    margin:0;
+  }
+  .aboutbox p{
+    padding: 0 10px;
+    margin: 0;
+  }
+  .date{
+    display: none;
+  }
+  .projectbox{
+    height: auto;
+  }
+  .projectbox:hover img{
+    opacity:inherit;
+  }
+  .projectbox::before, .projectbox::after{
+    display: none;
+  }
+  .projectbox:not(:first-of-type){
+    margin-top:5px;
+  }
+  .projectbox ul{
+    position: static;
+    opacity:1;
+    transform: none;
+    }
+    .projectbox li:last-child {
+      width: auto;
+      padding:0;
+  
+    }
+    .button i{
+      font-size: 2.5em;
+      color: #333;
+    }
+    .row{
+      margin:0;
+    }
+    .row, .row > .column{
+      padding:0;
+    }
+    .navTop{
+      background-color: rgba(0, 0, 0, 0.4);
+      z-index:1;
+      margin:0;
+      padding: 5px 0;
+      position: fixed; /* Make it stick/fixed */
+      top: 0; /* Stay on top */
+      width: 100%; /* Full width */
+      transition: top 0.6s; /* Transition effect when sliding down (and up) */
+    }
+    .navbar--hidden {
+      top: -50px;
+    }
+    .navTop .icon{
+      display: block;
+      color: #ff7214;
+      font-weight: 100;
+    }
+    .navTop .text{
+      display: none;
+    }
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
+      .column {
+        width: 100%;
+      }
+.collab {
+  display:none;
+}
+.contactNav{
+ display: none;
+}
+form{
+  flex-basis:100%;
+  padding: 5%;
+}
+input,
+textarea,button {
+  display: block;
+width: 100%;
+}
+}

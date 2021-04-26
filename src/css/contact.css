@@ -1,0 +1,52 @@
+.contact {
+  display: flex;
+  flex-wrap:nowrap;
+}
+form, .collab {
+  flex-basis: 50%;
+}
+input,
+textarea,button {
+  width: 100%;
+  border: 2px solid transparent;
+  margin: 5px;
+  padding: 5px;
+  background-color: transparent;
+  color: gold;
+  font-size: 1em;
+  resize: vertical;
+}
+textarea {
+  height: 20vw;
+}
+input::placeholder,
+textarea::placeholder {
+  color: white;
+  text-align: left;
+}
+.contact ul li{
+  border-bottom: 1px solid gold;
+}
+button[type="submit"]{
+  text-align:left;
+}
+button[type="submit"] i{
+  font-size:2em;
+  color:white;
+}
+button[type="submit"] i:hover {
+  color: gold;
+  transition: color 1s;
+}
+.collab{
+  align-self:center;
+  font-size:3em;
+  text-align:center;
+  color: #ff7214;
+  text-shadow: 5px 5px 0 rgba(255, 0, 180, 0.5);
+}
+#next-line-intent{
+  text-indent: 2em; 
+  font-size:1em;
+  text-shadow: 5px 5px 0 rgba(255, 0, 180, 0.5);
+}
