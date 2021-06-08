@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.07ba9892.chunk.css",
-    "main.js": "/portfolio/static/js/main.11f7fbbd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.11f7fbbd.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.36963274.js.map",
-    "static/css/2.1f43c709.chunk.css": "/portfolio/static/css/2.1f43c709.chunk.css",
-    "static/js/2.d0d4daf2.chunk.js": "/portfolio/static/js/2.d0d4daf2.chunk.js",
-    "static/js/2.d0d4daf2.chunk.js.map": "/portfolio/static/js/2.d0d4daf2.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.aeb301bd.chunk.css",
+    "main.js": "/portfolio/static/js/main.0fcf478a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0fcf478a.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
+    "static/css/2.cc634814.chunk.css": "/portfolio/static/css/2.cc634814.chunk.css",
+    "static/js/2.3cfdc7b3.chunk.js": "/portfolio/static/js/2.3cfdc7b3.chunk.js",
+    "static/js/2.3cfdc7b3.chunk.js.map": "/portfolio/static/js/2.3cfdc7b3.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.acdcbf7e14061826ecd35ecdb9659714.js": "/portfolio/precache-manifest.acdcbf7e14061826ecd35ecdb9659714.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.1f43c709.chunk.css.map": "/portfolio/static/css/2.1f43c709.chunk.css.map",
-    "static/css/main.07ba9892.chunk.css.map": "/portfolio/static/css/main.07ba9892.chunk.css.map",
-    "static/media/CV-KatrinSalac.pdf": "/portfolio/static/media/CV-KatrinSalac.202bb817.pdf",
-    "static/media/alltag.png": "/portfolio/static/media/alltag.dcab3f49.png",
-    "static/media/blog.png": "/portfolio/static/media/blog.d4bc372c.png",
-    "static/media/all.css": "/portfolio/static/media/fa-solid-900.db525089.woff",
-    "static/media/germany.png": "/portfolio/static/media/germany.ccd12288.png",
-    "static/media/guess.png": "/portfolio/static/media/guess.c8e3b483.png",
-    "static/media/index.css": "/portfolio/static/media/rose-egg.d5dc20f0.svg",
-    "static/media/weatherapp.png": "/portfolio/static/media/weatherapp.ff8dbd06.png"
-  }
+    "static/css/2.cc634814.chunk.css.map": "/portfolio/static/css/2.cc634814.chunk.css.map",
+    "static/css/main.aeb301bd.chunk.css.map": "/portfolio/static/css/main.aeb301bd.chunk.css.map",
+    "static/js/2.3cfdc7b3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3cfdc7b3.chunk.js.LICENSE.txt",
+    "static/media/CV-KatrinSalac.06145fd4.pdf": "/portfolio/static/media/CV-KatrinSalac.06145fd4.pdf",
+    "static/media/alltag.d4fcac09.png": "/portfolio/static/media/alltag.d4fcac09.png",
+    "static/media/blog.dae11abf.png": "/portfolio/static/media/blog.dae11abf.png",
+    "static/media/all.css": "/portfolio/static/media/fa-solid-900.ffdd60f0.ttf",
+    "static/media/germany.3d035bd4.png": "/portfolio/static/media/germany.3d035bd4.png",
+    "static/media/guess.0e0ba475.png": "/portfolio/static/media/guess.0e0ba475.png",
+    "static/media/index.css": "/portfolio/static/media/rose-egg.8b627521.svg",
+    "static/media/weatherapp.da77172d.png": "/portfolio/static/media/weatherapp.da77172d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76232b81.js",
+    "static/css/2.cc634814.chunk.css",
+    "static/js/2.3cfdc7b3.chunk.js",
+    "static/css/main.aeb301bd.chunk.css",
+    "static/js/main.0fcf478a.chunk.js"
+  ]
 }
