@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a199d57e.chunk.css",
+    "main.js": "/portfolio/static/js/main.cee7dbec.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cee7dbec.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.36963274.js.map",
+    "static/css/2.1f43c709.chunk.css": "/portfolio/static/css/2.1f43c709.chunk.css",
+    "static/js/2.d0d4daf2.chunk.js": "/portfolio/static/js/2.d0d4daf2.chunk.js",
+    "static/js/2.d0d4daf2.chunk.js.map": "/portfolio/static/js/2.d0d4daf2.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.4b2acc195d0b0a4a909df63b95d3b533.js": "/portfolio/precache-manifest.4b2acc195d0b0a4a909df63b95d3b533.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.1f43c709.chunk.css.map": "/portfolio/static/css/2.1f43c709.chunk.css.map",
+    "static/css/main.a199d57e.chunk.css.map": "/portfolio/static/css/main.a199d57e.chunk.css.map",
+    "static/media/CV-KatrinSalac.pdf": "/portfolio/static/media/CV-KatrinSalac.202bb817.pdf",
+    "static/media/alltag.png": "/portfolio/static/media/alltag.dcab3f49.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.38101a9f.png",
+    "static/media/all.css": "/portfolio/static/media/fa-solid-900.db525089.woff",
+    "static/media/germany.png": "/portfolio/static/media/germany.ccd12288.png",
+    "static/media/guess.png": "/portfolio/static/media/guess.21670d15.png",
+    "static/media/index.css": "/portfolio/static/media/rose-egg.d5dc20f0.svg",
+    "static/media/weatherapp.png": "/portfolio/static/media/weatherapp.2c3d09f1.png"
+  }
+}
