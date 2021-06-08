@@ -1,5 +1,4 @@
 import React from "react";
-
 import Home from "./components/Home";
 
 class App extends React.Component {
@@ -7,12 +6,12 @@ class App extends React.Component {
     return (
       <React.Fragment>
         <div className="App">
-        <header className="App-header">
-        <Home/>
-        </header>
-      </div>
+          <header className="App-header">
+            <Home />
+          </header>
+        </div>
       </React.Fragment>
-    )
+    );
   }
 }
 export default App;

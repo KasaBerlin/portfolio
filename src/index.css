@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Julius+Sans+One|Josefin+Slab|Open+Sans:300|Cabin+Sketch|Fredericka+the+Great|Lobster|Quicksand&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Julius+Sans+One|Josefin+Slab|Open+Sans:300|Cabin+Sketch|Fredericka+the+Great|Lobster|Quicksand|Fascinate|Bahiana&display=swap");
 @import url("../src/css/home.css");
 @import url("../src/css/about.css");
 @import url("../src/css/projects.css");
@@ -11,7 +11,7 @@
   margin: 0;
   text-decoration: none;
   list-style: none;
-  text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
@@ -23,37 +23,52 @@
   box-sizing: border-box;
 }
 html {
-scroll-behavior: smooth;
-background-color:silver;
-font-family: 'Open Sans', sans-serif;
+  scroll-behavior: smooth;
+  background-color: silver;
+  font-family: "Open Sans", sans-serif;
 }
-body{
+body {
   background-image: url("./images/rose-blue.svg");
-  background-size:auto;
+  background-size: auto;
   background-attachment: fixed;
   background-repeat: repeat;
   width: 100%;
   min-height: 100vh;
 }
 /* border page */
-#top, #bottom, #left, #right {
+#top,
+#bottom,
+#left,
+#right {
   background: whitesmoke;
   position: fixed;
-  z-index:1;
+  z-index: 1;
 }
-#left, #right {
-  top: 0; bottom: 0;
+#left,
+#right {
+  top: 0;
+  bottom: 0;
   width: 5px;
 }
-#left { left: 0; }
-#right { right: 0; }
-  
-#top, #bottom {
-  left: 0; right: 0;
+#left {
+  left: 0;
+}
+#right {
+  right: 0;
+}
+
+#top,
+#bottom {
+  left: 0;
+  right: 0;
   height: 5px;
 }
-#top { top: 0; }
-#bottom { bottom: 0; }
+#top {
+  top: 0;
+}
+#bottom {
+  bottom: 0;
+}
 /* border page end*/
 
 section:not(.home) {
@@ -64,25 +79,28 @@ section:not(.home) {
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
   height: fit-content;
 }
-h1{
-  font-size: 3em;
-  font-weight:100;
-  font-family: 'Julius Sans One', sans-serif;
+h1 {
+  font-size: 3rem;
+  font-weight: bolder;
+  font-family: "Julius Sans One", sans-serif;
   color: #ff7214;
   text-shadow: 5px 5px 0 rgba(255, 0, 180, 0.5);
   border-bottom: 1px solid white;
-    word-break: break-all;
-    padding-bottom: 50px;
-    margin-bottom:50px;
-  }
-  h3, article,p{
-    color:white; 
-  }
+  word-break: break-all;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+h3,
+article,
+p {
+  color: white;
+}
 /* animation */
 
 .puff-in-center {
-  -webkit-animation: puff-in-center 0.5s cubic-bezier(0.680, -0.550, 0.265, 1.550) both;
-  animation: puff-in-center 0.5s cubic-bezier(0.680, -0.550, 0.265, 1.550) both;
+  -webkit-animation: puff-in-center 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55)
+    both;
+  animation: puff-in-center 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
 }
 /* keyframes */
 
@@ -107,8 +125,8 @@ h1{
     -webkit-transform: scale(2);
     transform: scale(2);
     -webkit-filter: blur(4px);
-            filter: blur(4px);
-            opacity: 0;
+    filter: blur(4px);
+    opacity: 0;
   }
   100% {
     -webkit-transform: scale(1);
@@ -119,35 +137,37 @@ h1{
   }
 }
 
-
-@media screen and (max-width: 768px) {  
-  body{
-    background-size:cover;
+@media screen and (max-width: 768px) {
+  body {
+    background-size: cover;
     padding: 0;
     height: fit-content;
   }
-  #top, #bottom, #left, #right{
+  #top,
+  #bottom,
+  #left,
+  #right {
     display: none;
   }
-  section:not(.home){
-  margin:0 auto;
-  padding:50px 0;
-  background-color:transparent;
-  box-shadow: none;
-}
-h1{
-  margin-left: 5%;
-}
-article,p{
-  color: whitesmoke;
-  font-weight: bolder;
-  font-size: 1.2em;
-  text-align: left;
-  margin: 0 5%;
-}
-h2{
-  text-align: center;
-  padding-top:5%;
-}
-
+  section:not(.home) {
+    margin: 0 auto;
+    padding: 50px 0;
+    background-color: transparent;
+    box-shadow: none;
   }
+  h1 {
+    margin-left: 5%;
+  }
+  article,
+  p {
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 1.2em;
+    text-align: left;
+    margin: 0 5%;
+  }
+  h2 {
+    text-align: center;
+    padding-top: 5%;
+  }
+}

@@ -1,26 +1,27 @@
-.home{
+.home {
   overflow: hidden;
   width: 100%;
-  font-family: 'Fredericka the Great', cursive;
+  font-family: "Fredericka the Great", cursive;
 }
-.mail{display: none}
+.mail {
+  display: none;
+}
 .full {
   height: 100vh;
   display: grid;
-  grid-template-rows:  auto repeat(3,1fr);
-  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: auto repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 15px;
 }
 .full > a:not(.welcome) {
-  font-family: 'Julius Sans One', sans-serif;
-  text-shadow: 5px 5px 0 rgba(255, 0, 180, 0.5);
-  font-size:2.3em;
-  color:#ff7214;
-  z-index:2;
+  font-family: "Julius Sans One", sans-serif;
+  font-size: 2.3em;
+  color: #ff7214;
+  z-index: 2;
   width: 50%;
   place-self: center;
 }
-.full > a:hover{
+.full > a:hover {
   color: yellow;
   transition: color 2s;
 }
@@ -30,27 +31,27 @@
 .work {
   grid-area: 3 / 1 / 3 / 2;
 }
-.contactNav{
-  grid-area:4 / 1 / 4 / 2;
+.contactNav {
+  grid-area: 4 / 1 / 4 / 2;
 }
-.iconbar{
+.iconbar {
   grid-area: 1 / 1 / 1 / 4;
   display: flex;
-  font-family: 'Josefin Slab', serif;
-  background-color:white;
-  height:fit-content;
+  font-family: "Josefin Slab", serif;
+  background-color: white;
+  height: fit-content;
   color: #ff7214;
-  padding-left:5%;
+  padding-left: 5%;
 }
-.iconbar i{
+.iconbar i {
   position: relative;
-  display:flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   font-size: 1.5em;
   border: 2px dotted transparent;
   border-radius: 50%;
-  height: 80px; 
+  height: 80px;
   width: 80px;
   margin: 10px;
   z-index: 2;
@@ -59,48 +60,40 @@
 .iconbar i:hover {
   color: rgba(255, 0, 180, 0.5);
 }
-.iconbar i:hover{
+.iconbar i:hover {
   border-top-color: navy;
   border-right-color: navy;
   border-bottom-color: navy;
   border-left-color: navy;
-  transition: border-top-color 0.15s linear, border-right-color 0.15s linear 0.1s, border-bottom-color 0.15s linear 0.2s,  border-left-color 0.15s linear 0.3s;
+  transition: border-top-color 0.15s linear,
+    border-right-color 0.15s linear 0.1s, border-bottom-color 0.15s linear 0.2s,
+    border-left-color 0.15s linear 0.3s;
 }
 .welcome {
   grid-area: 1 / 1 / 5/ 4;
   background-image: url(../images/rose-egg.svg);
-  background-size: contain;
+  background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
-  z-index:1; 
+  z-index: 1;
 }
-.welcomeP{
+.welcomeP {
   grid-area: 2 / 3 / 5/ 4;
-  z-index:2;
-  font-family: 'Julius Sans One', sans-serif;
-  text-shadow: 5px 5px 0 rgba(255, 0, 180, 0.5);
-  color:navy;
-  font-size:3.5em;
+  z-index: 2;
+  font-family: "Josefin Slab", serif;
+  color: black;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-size: 3rem;
   text-align: right;
-  border-right: 5px dotted navy;
-  padding-right:20px;
-  margin:20px;
-  align-self:center;
+  border-top: 10px dotted orangered;
+  padding: 7rem 20px 0 0;
+  margin: 20px;
   line-height: 1.1em;
-}
-#trademark{
-grid-area: 4 / 1 / 4 / 4;
-height: fit-content;
-font-family: 'Josefin Slab', serif;
-font-weight: bolder;
-letter-spacing: 5px;
-align-self:end;
-justify-self: center;
-width: 100%;
-text-align: center;
-color: white;
-}
-.trademark{
-  color: #333;
-  padding: 50px;
+  position: absolute;
+  top: 1rem;
+  right: 0;
+  bottom: 0;
+  width: 50%;
+  line-height: 2rem;
 }

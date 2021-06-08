@@ -1,4 +1,4 @@
-.row{
+.row {
   margin: 8px -16px;
 }
 .row:after {
@@ -10,72 +10,70 @@
 .row > .column {
   padding: 8px;
 }
-.column{
+.column {
   float: left;
   width: 50%;
 }
-.projectbox{
-  position:relative;
-  height: 500px;
-  padding:10px;
-  text-align:center;
+.projectbox {
+  position: relative;
+  padding: 10px;
+  text-align: center;
 }
 .projectbox img {
-  background-color:white;
-  /* object-fit:cover; */
-  /* height:500px; */
-  width:100%;
-  transition:opacity ease-out 250ms;
-  opacity:1;
+  background-color: white;
+  width: 100%;
+  transition: opacity ease-out 250ms;
+  opacity: 1;
 }
-.projectbox:hover img{
-  opacity:0.1;
+.projectbox:hover img {
+  opacity: 0.1;
 }
-.projectbox::before{
-  content:"";
-  position:absolute;
-  top:1.25em;
-  bottom:1.25em;
-  left:1.25em;
-  right:1.25em;
-  transform:scale(0,1);
+.projectbox::before {
+  content: "";
+  position: absolute;
+  top: 1.25em;
+  bottom: 1.25em;
+  left: 1.25em;
+  right: 1.25em;
+  transform: scale(0, 1);
   transition: transform ease-out 250ms;
-  border-bottom:1px solid white;
+  border-bottom: 1px solid white;
 }
-.projectbox::after{
-  content:"";
-  position:absolute;
-  top:1.25em;
-  bottom:1.25em;
-  left:1.25em;
-  right:1.25em;
-  transform:scale(1,0);
+.projectbox::after {
+  content: "";
+  position: absolute;
+  top: 1.25em;
+  bottom: 1.25em;
+  left: 1.25em;
+  right: 1.25em;
+  transform: scale(1, 0);
   transition: transform ease-out 250ms;
   border-left: 1px solid white;
 }
-.projectbox:hover::before{
-  transform: scale(1.05,1);
+.projectbox:hover::before {
+  transform: scale(1.05, 1);
 }
-.projectbox:hover::after{
-  transform: scale(1,1.05);
-  }
-.projectbox ul{
-  position:absolute;
-  top:50%;
-  left:50%; 
-  transform: translate(-50%,-50%);
-  opacity:0;
+.projectbox:hover::after {
+  transform: scale(1, 1.05);
+}
+.projectbox ul {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
   z-index: 1;
   transition: opacity ease-out 250ms;
 }
-.projectbox:hover ul{
-  opacity:1;
+.projectbox:hover ul {
+  opacity: 1;
 }
-.projectbox li p{
+.projectbox li p {
   text-align: center;
+  font-size: 0.5rem !important;
 }
 h2 {
-  font-size: 2em;
+  font-size: 1.5rem;
   padding-bottom: 15px;
   font-family: "Lobster", cursive;
   white-space: wrap;
@@ -84,23 +82,24 @@ h2 {
 }
 .projectbox li:last-child {
   display: flex;
-  place-content:center;
-flex-wrap: wrap;
-} 
-.button{
-  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  display: flex;
   justify-content: center;
   align-items: center;
   border: 2px dotted white;
   border-radius: 50%;
   width: 80px;
-  height: 80px; 
+  height: 80px;
   margin: 10px;
 }
-.button i{
+.button i {
   font-size: 1.5em;
   color: #fce181;
 }
 ul span {
   display: none;
-} 
+}
